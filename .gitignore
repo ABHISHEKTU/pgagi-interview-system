@@ -1,0 +1,17 @@
+# Python
+backend/.env
+backend/vector_store/
+backend/knowledge_base/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
